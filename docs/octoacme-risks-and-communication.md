@@ -73,9 +73,10 @@ Incident Communication
 - Testing blockers and resource needs
 
 ## Escalation Paths
-- Team-level -> Scrum Master (for process/blocker issues) or PM (for project issues) -> Product Lead -> Sponsor
-- Technical issues: Developers -> Tech Lead -> DevOps Engineer (for infrastructure) or relevant specialist
-- Requirements clarity: Developers -> Business Analyst -> Product Manager
-- Design decisions: Developers -> UX/UI Designer -> Product Manager
-- Quality concerns: QA Lead -> PM -> Product Lead
-- For security incidents, follow the security incident runbook and notify Security on-call
+- **Process and team blockers**: Team member -> Scrum Master (removes impediments) -> PM (if cross-team coordination needed) -> Product Lead -> Sponsor
+- **Project timeline/scope issues**: Team member -> PM -> Product Lead -> Sponsor
+- **Technical issues**: Developers -> Tech Lead -> DevOps Engineer (for infrastructure) or relevant specialist -> PM (if project impact)
+- **Requirements clarity**: Developers -> Business Analyst -> Product Manager -> PM (if timeline impact)
+- **Design decisions**: Developers -> UX/UI Designer -> Product Manager -> PM (if timeline impact)
+- **Quality concerns**: QA Lead -> PM -> Product Lead
+- **Security incidents**: Follow the security incident runbook and notify Security on-call immediately

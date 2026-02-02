@@ -8,7 +8,11 @@ OctoAcme follows a structured five-phase lifecycle for all cross-functional proj
 
 ## Core Roles & Responsibilities
 
-Three primary roles drive project success at OctoAcme. **Project Managers** coordinate delivery activities, manage schedules and risks, facilitate meetings, and maintain transparency through consistent documentation and status reporting. **Product Managers** define what should be built by owning the product vision, prioritizing the backlog, collaborating on trade-offs, and measuring outcomes through user research and metrics. **Developers** design, build, test, and deliver software components while participating in design reviews, estimating work, and helping identify technical risks. Additional contributors include QA/Testing professionals who validate quality and acceptance criteria, and Stakeholders who provide essential inputs and approvals.
+Our project teams include several key roles that work together to deliver successful outcomes. **Project Managers** coordinate delivery activities, manage schedules and risks, facilitate meetings, and maintain transparency through consistent documentation and status reporting. **Product Managers** define what should be built by owning the product vision, prioritizing the backlog, collaborating on trade-offs, and measuring outcomes through user research and metrics. **Developers** design, build, test, and deliver software components while participating in design reviews, estimating work, and helping identify technical risks.
+
+**QA Leads/Test Engineers** oversee the quality strategy for products, create and execute comprehensive test plans, and collaborate with all delivery roles to ensure features meet acceptance criteria and maintain high quality standards. **Stakeholders** provide essential inputs and approvals throughout the project lifecycle.
+
+Supporting roles enhance team effectiveness and delivery quality. **Scrum Masters** facilitate agile ceremonies, remove blockers, and coach teams on agile practices to maximize productivity and flow. **UX/UI Designers** ensure products are usable and accessible through user research, prototyping, and design iteration. **Business Analysts** bridge business and technical teams by gathering requirements, refining user stories, and ensuring solutions address actual business needs. **DevOps Engineers** design and maintain CI/CD pipelines and infrastructure, enabling reliable and efficient software delivery through automation and observability.
 
 ## Communication & Collaboration
 
